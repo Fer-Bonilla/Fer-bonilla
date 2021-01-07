@@ -13,9 +13,10 @@
 -	Quantum computing applications for Machine Learning.
 -	Blockchain Dapps and platforms.
 
-- 👯 I want to collaborate with some nice project related to pet’s care, food waste and quality improvement, equality and inclusivity, and environment. If you know about something interesting, I have some time to work on it! 
+### - 👯 I want to collaborate 
+with some nice project related to pet’s care, food waste and quality improvement, equality and inclusivity, and environment. If you know about something interesting, I have some time to work on it! 
 
-- 📫 How to reach me: ...
+### - 📫 How to reach me: ...
 I am not good with social media! But if you want to know something about my professional track please check my LinkedIn account.
 Soon my personal page…..!
 
@@ -23,7 +24,8 @@ Soon my personal page…..!
 - Fun fact: While more you learn, less you know. 
 
 
-## Some projects of my projects.
+
+# Some of my projects.
 
 ## Deep Learning and MAchine Learning
 - NLP - Jokes classification
@@ -39,6 +41,8 @@ Soon my personal page…..!
 ##  Quantum computing
  - Quantum deep learning experiment
  
+# Some post's
+
 
 
 
