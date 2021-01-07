@@ -17,11 +17,12 @@
 with some nice project related to pet’s care, food waste and quality improvement, equality and inclusivity, and environment. If you know about something interesting, I have some time to work on it! 
 
 ### - 📫 How to reach me: ...
-I am not good with social media! But if you want to know something about my professional track please check my LinkedIn account.
+I am not good with social media! But if you want to know something about my professional track please check my LinkedIn account. https://www.linkedin.com/in/ferbonillas/
+
 Soon my personal page…..!
 
 
-- Fun fact: While more you learn, less you know. 
+### Fun fact: While more you learn, less you know. 
 
 
 
