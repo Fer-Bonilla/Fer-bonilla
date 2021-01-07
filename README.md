@@ -44,8 +44,45 @@ Soon my personal page…..!
  
 # Some post's
 
+Soon the links.....
 
 
+# Courses and material
+
+## Coursera
+ - Deep Learning specialization
+ - GAN specialization
+ - NLP specialization
+ - Data Engineering with Google Cloud
+ - IBM Machine Learning Professional Certificate
+ - Google IT Automation with Python Professional Certificate
+ - Machine Learning with TensorFlow on Google Cloud Platform Specialization
+
+ 
+## Udacity
+ - NLP Nanodegree
+ - Blockchain developen Nanodegree
+ - Deep Learning Nanodegree
+ - Machine Learning Nanodegree
+
+## EDX
+ - 
+
+## MIT-X
+ - Quantum Computing fundamentals
+
+
+## IBM Qiskit development
+ - IBM Qiskit Summer School
+ -  
+ 
+## Concensys Ethereum development
+- Solidity developer
+
+
+## SCRUM and SAFE
+ - Safe course
+ - Scrum exercises and course
 
 ![Fernando's Github Stats](https://github-readme-stats.vercel.app/api?username=fer-bonilla&show_icons=true&theme=radical)
 
