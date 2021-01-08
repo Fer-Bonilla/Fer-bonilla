@@ -66,19 +66,20 @@ Soon the links.....
  - Machine Learning Nanodegree
 
 ## EDX
- - 
+ - Artificial Intelligence (AI) Professional Certificate
 
 ## MIT-X
  - Quantum Computing fundamentals
 
-
 ## IBM Qiskit development
  - IBM Qiskit Summer School
- -  
+ - Qubit by Qubit Introduction to Quantum Computing with IBM Quantum
  
-## Concensys Ethereum development
+## Consensys Ethereum development
 - Solidity developer
 
+## Hyperledger development
+- Linux fundation Hyperledger Fabric development 
 
 ## SCRUM and SAFE
  - Safe course
