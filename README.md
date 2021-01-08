@@ -28,7 +28,7 @@ Soon my personal page…..!
 
 # Some of my projects.
 
-## Deep Learning and MAchine Learning
+## Deep Learning and Machine Learning
 - NLP - Jokes classification
 - Public contracts analysis
 - Oil production projections with Azure ML 
@@ -58,7 +58,14 @@ Soon the links.....
  - Google IT Automation with Python Professional Certificate
  - Machine Learning with TensorFlow on Google Cloud Platform Specialization
 
- 
+## Artificial Intelligence Master
+- NLP Course and exercises
+- Deep Learning course and exercises
+- Neurobiology Learning course and exercises
+- Computer vision course and exercises
+
+## Quantum computing master program
+
 ## Udacity
  - NLP Nanodegree
  - Blockchain developen Nanodegree
