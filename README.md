@@ -29,9 +29,9 @@ Soon my personal page…..!
 # Some of my projects.
 
 ## Deep Learning and Machine Learning
-- NLP - Jokes classification
-- Public contracts analysis
-- Oil production projections with Azure ML 
+- Jokes classification
+- Colomnian goverment public contracts analysis
+- Oil and gas production projections with Azure ML 
 - Bitcoin trading with Reinforcement learning 
 
 ## Blockchain
@@ -40,7 +40,8 @@ Soon my personal page…..!
  - Emeralds supply chain
 
 ##  Quantum computing
- - Quantum deep learning experiment
+ - Quantum deep learning using Qsikit
+ - Quantum criptography 
  
 # Some post's
 
