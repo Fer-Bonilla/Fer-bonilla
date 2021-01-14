@@ -29,19 +29,47 @@ Soon my personal page…..!
 # Some of my projects.
 
 ## Deep Learning and Machine Learning
-- Jokes classification
-- Colomnian goverment public contracts analysis
-- Oil and gas production projections with Azure ML 
-- Bitcoin trading with Reinforcement learning 
+
+### Jokes classification and scoring 
+Spanish dataset for jokes classification and scoring prediction. The project include: 
+- Web scrapping for joke text collection (Python)
+- Admin web app for text tagging, categorization, scoring and evaluation. (Python Django)
+- Android App for user to read and score the jokes. (Android)
+- BERT based model for text classification. (Python)
+- BERT + GAN for conditional jokes generation. (Python)
+
+### Colombian government public contracts analysis
+text analytics for more than 3 million documents for government biddings.
+- Text analysis to identity general topics in the contract’s description using BETO (Spanish BERT Model) 
+- Dash development for visualization and analysis (Dash + Python)
+- OCR for information extraction from public contracts (Tesseract)
+- Graph analysis for contractors (NetworkX + Python)
+
+### Oil and gas production projections with Azure ML 
+Colombia Oil and Gas production prediction with regression models.
+- EDA using Python notebooks.
+- Azure Data Factory for data load and preprocessing.
+- Azure ML studio and Auto ML scripting development
+- Data visualization with Tableau and PowerBI
+
+### Bitcoin trading with Reinforcement learning 
+ - Bitcoin trading agent using Deep Learning ReAgent and Dopamine
+ - Bitcoin and Ethereum price charts detection (Pytorch)
+ - Price prediction with (Pytorch)
+ - Web scrapper with bitcoin related news (Python)
+
 
 ## Blockchain
- - Basic blockchain with node.js
- - Pets care Dapp in Ethereum
- - Emeralds supply chain
+### Basic blockchain with node.js
+ - Blockchain model based in node.js and Level DB with basic functionalities: Transactions, Transactions validations, UTx handling, Block validation, Block Mining, and messages with REST API.
+ - Pets care Dapp in Ethereum: Dapp for Pets identity and heath records management using Solidity smart contracts, Web3, Vue.js and Infura.
+ - Emeralds supply chain: Dapp example for emeralds supply chain management with solidity smart contracts, Web3, Vue.js and Infura.
+
 
 ##  Quantum computing
  - Quantum deep learning using Qsikit
- - Quantum criptography 
+ - Quantum criptography
+ 
  
 # Some post's
 
