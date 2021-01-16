@@ -81,7 +81,7 @@ Soon the links.....
 ## Coursera
  - Deep Learning specialization
  - GAN specialization
- - NLP specialization
+ - [NLP specialization](https://github.com/Fer-Bonilla/NLP-Coursera-specialization)
  - Data Engineering with Google Cloud
  - IBM Machine Learning Professional Certificate
  - Google IT Automation with Python Professional Certificate
