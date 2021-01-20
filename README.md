@@ -26,7 +26,7 @@ Soon my personal page…..!
 
 # *Fun fact: While more you learn, less you know.* 
 
-____________________________________________________________________________________________________________________________________________
+<p></p>
 <p></p>
 
 # Some of my projects.
@@ -73,13 +73,15 @@ Colombia Oil and Gas production prediction with regression models.
  - Quantum deep learning using Qsikit
  - Quantum criptography
  
- 
+<p></p>
+
 # Some post's
 
 Soon the links.....
 
 <p></p>
 
+<p></p>
 # Courses and material
 
 ## Coursera
@@ -124,18 +126,20 @@ Soon the links.....
  - Safe course
  - Scrum exercises and course
  
-___________________________________________________________________ 
- 
- <p></p>
+
+<p></p>
+<p></p>
+
+
  
 # :man_student: Studies and grades 
 
-## Quantum computing master
-## Artificial Intelligence master
-## Innovation management master
-## MBA
-## Agile project Management Diploma
-## Technology manamgement PGP
+- Quantum computing master
+- Artificial Intelligence master
+- Innovation management master
+- MBA
+- Agile project Management Diploma
+- Technology manamgement PGP
 
 
 
