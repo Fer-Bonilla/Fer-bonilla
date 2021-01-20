@@ -23,8 +23,7 @@ I am not good with social media! But if you want to know something about my prof
 
 Soon my personal page…..!
 
-
-# *Fun fact: While more you learn, less you know.* 
+<h2 align="center"> Fun fact: While more you learn, less you know.</h2>
 
 <p></p>
 <p></p>
@@ -74,11 +73,6 @@ Colombia Oil and Gas production prediction with regression models.
  - Quantum criptography
  
 <p></p>
-
-# Some post's
-
-Soon the links.....
-
 <p></p>
 
 <p></p>
