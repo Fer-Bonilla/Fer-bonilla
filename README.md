@@ -1,7 +1,7 @@
-<h2 align="center"> Hi there 👋 My name is Fernando</h2><a href="https://www.linkedin.com/in/ferbonillas/">
+<h2 align="center"> Hi there 👋 My name is Fernando<a href="https://www.linkedin.com/in/ferbonillas/">
   <img alt="Fernando's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+</h2>
 <p align="center"> I am a Machine Learning and Deep Learning Engineer, working and experimenting with NLP models for text classification and analysis. Humor documents are a funny area for experiments, I am working on it! I am curious about Blockchain and Quantum computing, working and researching in some projects using Solidity for Ethereum and Hyperledger. </p>
 
 
