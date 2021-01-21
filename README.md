@@ -2,6 +2,10 @@
 
 <p align="center"> I am a Machine Learning and Deep Learning Engineer, working and experimenting with NLP models for text classification and analysis. Humor documents are a funny area for experiments, I am working on it! I am curious about Blockchain and Quantum computing, working and researching in some projects using Solidity for Ethereum and Hyperledger. </p>
 
+<a href="https://www.linkedin.com/in/ferbonillas/">
+  <img align="left" alt="Fernando's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 # About me!
 
 ## :technologist: I’m currently working on
