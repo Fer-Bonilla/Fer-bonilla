@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there 👋 My name is Fernando</h2>
-<p align="center"> I am a Machine Learning and Deep Learning Engineer, working and experimenting with NLP models for text classification and analysis. Humor documents are a funny area for experiments, I am working on it! I am curious about Blockchain and Quantum computing, working and researching in some projects using Solidity for Ethereum and Hyperledger.
+<p align="center">I am a Machine Learning and Deep Learning Engineer, working and experimenting with NLP models for text classification and analysis. Humor documents are a funny area for experiments, I am working on it! I am a Blockchain Developer and Quantum computing Enthusiast. I am working and researching on some projects using Solidity for Ethereum and Hyperledger for blockchain Dapps, and Qiskit for Quantum algorithms development.
 </p>
 
 <br/>  
@@ -184,5 +184,16 @@ Colombia Oil and Gas production prediction with regression models.
 
 
 
-![Fernando's Github Stats](https://github-readme-stats.vercel.app/api?username=fer-bonilla&show_icons=true&theme=radical)
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fer-bonilla&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fer-bonilla&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 
