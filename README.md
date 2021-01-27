@@ -181,7 +181,7 @@ Colombia Oil and Gas production prediction with regression models.
 - MBA
 - Agile project Management Diploma
 - Technology manamgement PGP
-
+- Computer Scienci B.S.
 
 
 ## Github Stats  
