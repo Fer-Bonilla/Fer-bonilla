@@ -111,8 +111,8 @@ Colombia Oil and Gas production prediction with regression models.
 ## Blockchain
 ### Basic blockchain with node.js
  - Blockchain model based in node.js and Level DB with basic functionalities: Transactions, Transactions validations, UTx handling, Block validation, Block Mining, and messages with REST API.
- - [Pets care Dapp in Ethereum](https://github.com/Fer-Bonilla/blockchain-projects/tree/master/emeralds-supplychain): Dapp for Pets identity and heath records management using Solidity smart contracts, Web3, Vue.js and Infura.
- - Emeralds supply chain: Dapp example for emeralds supply chain management with solidity smart contracts, Web3, Vue.js and Infura.
+ - Pets care Dapp in Ethereum: Dapp for Pets identity and heath records management using Solidity smart contracts, Web3, Vue.js and Infura.
+ - [Emeralds supply chain](https://github.com/Fer-Bonilla/emerald-ethdapp-supplychain): Dapp example for emeralds supply chain management with solidity smart contracts, Web3, Vue.js and Infura.
 
 
 ##  Quantum computing
