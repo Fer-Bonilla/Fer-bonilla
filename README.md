@@ -66,7 +66,7 @@
 with some nice project related to pet’s care, food waste and quality improvement, equality and inclusivity, and environment. If you know about something interesting, I have some time to work on it! 
 
 ## 📫 How to reach me: ...
-I am not good with social media! But if you want to know something about my professional track please check my LinkedIn account. https://www.linkedin.com/in/fer-bonilla/
+I am not good with social media! But if you want to know something about my professional track please check my LinkedIn account. https://www.linkedin.com/in/ferbonillas/
 
 Soon my personal page…..!
 
@@ -109,10 +109,11 @@ Colombia Oil and Gas production prediction with regression models.
 
 
 ## Blockchain
-### Basic blockchain with node.js
- - Blockchain model based in node.js and Level DB with basic functionalities: Transactions, Transactions validations, UTx handling, Block validation, Block Mining, and messages with REST API.
+
+ - [Basic blockchain](https://github.com/Fer-Bonilla/course-ethdapp-enrollment):  Blockchain model based in node.js and Level DB with basic functionalities: Transactions, Transactions validations, UTx handling, Block validation, Block Mining, and messages with REST API.
  - Pets care Dapp in Ethereum: Dapp for Pets identity and heath records management using Solidity smart contracts, Web3, Vue.js and Infura.
- - [Emeralds supply chain](https://github.com/Fer-Bonilla/emerald-ethdapp-supplychain): Dapp example for emeralds supply chain management with solidity smart contracts, Web3, Vue.js and Infura.
+ - [Emeralds supply chain](https://github.com/Fer-Bonilla/emerald-ethdapp-supplychain): Dapp example for emeralds supply chain management with solidity smart contracts, Web3, react and Infura.
+ - [Course enrrollment and management](https://github.com/Fer-Bonilla/course-ethdapp-enrollment): Dapp for course enrollment, payment, atendance controlling and certification for online courses using Solidity smart contracts, Web3, react and Infura.
 
 
 ##  Quantum computing
@@ -143,7 +144,7 @@ Colombia Oil and Gas production prediction with regression models.
 
 ## Udacity
  - NLP Nanodegree
- - Blockchain developen Nanodegree
+ - [Blockchain developer Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
  - Deep Learning Nanodegree
  - Machine Learning Nanodegree
 
@@ -181,7 +182,7 @@ Colombia Oil and Gas production prediction with regression models.
 - MBA
 - Agile project Management Diploma
 - Technology manamgement PGP
-- Computer Scienci B.S.
+- Computer Science B.S.
 
 
 ## Github Stats  
