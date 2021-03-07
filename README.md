@@ -114,7 +114,7 @@ Colombia Oil and Gas production prediction with regression models.
  - [Pets care Dapp in Ethereum](https://github.com/Fer-Bonilla/petscare-ethdapp-fundraising): Dapp for Pets identity and heath records management using Solidity smart contracts, Web3, Vue.js and Infura.
  - [Emeralds supply chain](https://github.com/Fer-Bonilla/emerald-ethdapp-supplychain): Dapp example for emeralds supply chain management with solidity smart contracts, Web3, react and Infura.
  - [Course enrrollment and management](https://github.com/Fer-Bonilla/course-ethdapp-enrollment): Dapp for course enrollment, payment, atendance controlling and certification for online courses using Solidity smart contracts, Web3, react and Infura.
- - [Flight delay insurance](https://github.com/Fer-Bonilla/course-ethdapp-enrollment): Dapp project for flight delay insurance based in solidity oracles. Developed with Solidity smart contracts, Web3, react and Infura.
+ - [Flight delay insurance](https://github.com/Fer-Bonilla/flightsurety-ethdapp-insurance): Dapp project for flight delay insurance based in solidity oracles. Developed with Solidity smart contracts, Web3, react and Infura.
 
 
 ##  Quantum computing
