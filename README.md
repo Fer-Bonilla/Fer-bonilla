@@ -181,7 +181,7 @@ Colombia Oil and Gas production prediction with regression models.
 - Artificial Intelligence master
 - MBA - Innovation management
 - Agile project Management Diploma
-- Technology manamgement PGP
+- Technology management PGP
 - Computer Science B.S.
 
 
