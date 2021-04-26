@@ -144,10 +144,14 @@ Colombia Oil and Gas production prediction with regression models.
 - Computer vision course and exercises
 
 ## Udacity
- - NLP Nanodegree
+ - [NLP Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
  - [Blockchain developer Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
- - Deep Learning Nanodegree
- - Machine Learning Nanodegree
+ - [Deep Learning Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
+ - [Machine Learning Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
+ - [Artificial Intelligence Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
+ - [Data Engineering Nadodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects) 
+ - [Data Streaming Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
+ - Deep Reinforcement Learning Nanodegree
 
 ## EDX
  - Artificial Intelligence (AI) Professional Certificate
