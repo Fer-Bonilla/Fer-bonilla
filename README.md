@@ -52,7 +52,7 @@
 # About me!
 
 ## :technologist: I’m currently working on
-- NLP fiel applied to documents classification! Funny jokes classifications and generation experiments!
+- NLP field applied to documents classification! Funny jokes classifications and generation experiments!
 - Doing progress with crypto-trading system using predictive models
 - Building some Dapps with Solidity for pet’s care fundraising
 - Designing some innovative services in the Govtech area, doing government digital services easier and cheaper.
