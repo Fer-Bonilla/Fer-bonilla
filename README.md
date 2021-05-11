@@ -25,22 +25,21 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/-solidity-00699C?style=for-the-badge&logo=solidity)
+![Solidity](https://img.shields.io/badge/-solidity-363636?style=for-the-badge&logo=solidity)
+![Julia](https://img.shields.io/badge/-julia-9558B2?style=for-the-badge&logo=julia)
 ![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java)
-
 
 #### Development Frameworks
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django--092E20?style=for-the-badge&logo=Django&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-vuejs-339933?style=for-the-badge&logo=vuejs&logoColor=white)
+![vuejs](https://img.shields.io/badge/-vuejs-339933?style=for-the-badge&logo=vuejs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-flask-F80000?style=for-the-badge&logo=flask&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-express-F80000?style=for-the-badge&logo=Express.js&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-GraphQL-F80000?style=for-the-badge&logo=GraphQL&logoColor=white)
-
+![FastAPI](https://img.shields.io/badge/-fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 
 #### Unit Test
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" />  
+![Chai](https://img.shields.io/badge/-Chai-E10098?style=for-the-badge&logo=Chai&logoColor=white)
 
 
 #### RELATIONAL DATABASES
@@ -77,6 +76,13 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure)
 ![GCP](https://img.shields.io/badge/GCP-232F3E?style=for-the-badge&logo=gcp)
+
+
+#### Blockchain 
+
+![Ethereum](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Hyperledger](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud)
 
 #### Versioning
 
