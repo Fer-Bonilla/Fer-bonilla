@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Solidity](https://img.shields.io/badge/-solidity-363636?style=for-the-badge&logo=solidity)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=https:"//simpleicons.org/icons/julia.svg")
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white")
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 
 #### Development Frameworks
@@ -39,16 +39,12 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 
 
-#### Unit Test
-![Chai](https://img.shields.io/badge/-Chai-E10098?style=for-the-badge&logo=Chai&logoColor=white)
-
-
-#### RELATIONAL DATABASES
+#### Relational Databases
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-#CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-Microsoft%20Sql%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![RedShift](https://img.shields.io/badge/-RedShift-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
 
 #### NoSQL
