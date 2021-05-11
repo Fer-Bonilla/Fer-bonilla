@@ -48,7 +48,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQLServer-#CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-#CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![RedShift](https://img.shields.io/badge/-RedShift-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
 
 #### NoSQL
@@ -76,13 +76,13 @@
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure)
-![GCP](https://img.shields.io/badge/Google%20Cloud-232F3E?style=for-the-badge&logo=google-cloud)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud)
 
 
 #### Blockchain 
 
-![Ethereum](https://img.shields.io/badge/Ethereum-232F3E?style=for-the-badge&logo=ethereum)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-0089D6?style=for-the-badge&logo=hy7perledger)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger)
 
 #### Versioning
 
