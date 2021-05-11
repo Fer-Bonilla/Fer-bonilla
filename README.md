@@ -68,8 +68,9 @@
 
 ![Airflow](https://img.shields.io/badge/-MLflow-007A88?style=for-the-badge&logo=MLflow-airflow&logoColor=white)
 ![Spark](https://img.shields.io/badge/-keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Spark](https://img.shields.io/badge/-tensorflow-E25A1C?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/-pytorch-000000?style=for-the-badge&logo=pytoch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 #### Cloud Platforms
 
