@@ -67,7 +67,7 @@
 #### Machine Learning and Deep Learning
 
 ![Airflow](https://img.shields.io/badge/-MLflow-007A88?style=for-the-badge&logo=MLflow-airflow&logoColor=white)
-![Spark](https://img.shields.io/badge/-keras-E25A1C?style=for-the-badge&logo=apache-keras&logoColor=white)
+![Spark](https://img.shields.io/badge/-keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Spark](https://img.shields.io/badge/-tensorflow-E25A1C?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-pytorch-000000?style=for-the-badge&logo=pytoch&logoColor=white)
 
