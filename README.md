@@ -32,7 +32,7 @@
 #### Development Frameworks
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Django--DC382D?style=for-the-badge&logo=Django&logoColor=white)
+![Django](https://img.shields.io/badge/-Django--092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-vuejs-339933?style=for-the-badge&logo=vuejs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-flask-F80000?style=for-the-badge&logo=flask&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-express-F80000?style=for-the-badge&logo=Express.js&logoColor=white)
@@ -75,7 +75,7 @@
 #### Cloud Platforms
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft%20Azure)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/GCP-232F3E?style=for-the-badge&logo=gcp)
 
 #### Versioning
