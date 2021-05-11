@@ -25,13 +25,18 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 ![Solidity](https://img.shields.io/badge/-solidity-00699C?style=for-the-badge&logo=solidity)
+![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java)
 
-#### Runtime Environment
+
+#### Development Frameworks
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Django--DC382D?style=for-the-badge&logo=Django&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-vuejs-339933?style=for-the-badge&logo=vuejs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-flask-F80000?style=for-the-badge&logo=flask&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-express-F80000?style=for-the-badge&logo=Express.js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-GraphQL-F80000?style=for-the-badge&logo=GraphQL&logoColor=white)
 
 
 #### Unit Test
@@ -50,11 +55,7 @@
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![]
-
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
+![Redis](https://img.shields.io/badge/-Redis-1287B1?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Data Engineering
 
@@ -65,8 +66,10 @@
 
 #### Machine Learning and Deep Learning
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-
+![Airflow](https://img.shields.io/badge/-MLflow-007A88?style=for-the-badge&logo=MLflow-airflow&logoColor=white)
+![Spark](https://img.shields.io/badge/-keras-E25A1C?style=for-the-badge&logo=apache-keras&logoColor=white)
+![Spark](https://img.shields.io/badge/-tensorflow-E25A1C?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/-pytorch-000000?style=for-the-badge&logo=pytoch&logoColor=white)
 
 #### Cloud Platforms
 
@@ -75,44 +78,11 @@
 ![GCP](https://img.shields.io/badge/GCP%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
 
-#### IDE
-
-![JetBrains](https://img.shields.io/badge/-JetBrains-black?style=for-the-badge&logo=jetbrains)
-
-
 #### Versioning
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
-![SubVersion](https://img.shields.io/badge/-SubVersion-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
-![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=for-the-badge&logo=bitbucket)
 
-#### Favorite OS
-![CentOS](https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=centos)
-
-
-
-
-
-
-
-
-<div align="center">  
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-
-
-
-</div>  
 
 <br/>  
 
