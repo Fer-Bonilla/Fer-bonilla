@@ -75,9 +75,8 @@
 #### Cloud Platforms
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/Azure-232F3E?style=for-the-badge&logo=azure)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft%20Azure)
 ![GCP](https://img.shields.io/badge/GCP-232F3E?style=for-the-badge&logo=gcp)
-
 
 #### Versioning
 
