@@ -26,8 +26,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Solidity](https://img.shields.io/badge/-solidity-363636?style=for-the-badge&logo=solidity)
-![Julia](https://img.shields.io/badge/-julia-9558B2?style=for-the-badge&logo=julia)
-![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=https:"//simpleicons.org/icons/julia.svg")
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 
 #### Development Frameworks
 
