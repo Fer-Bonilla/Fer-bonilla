@@ -33,10 +33,11 @@
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django--092E20?style=for-the-badge&logo=Django&logoColor=white)
-![vuejs](https://img.shields.io/badge/-vuejs-339933?style=for-the-badge&logo=vuejs&logoColor=white)
+![vuejs](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-flask-F80000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
+
 
 #### Unit Test
 ![Chai](https://img.shields.io/badge/-Chai-E10098?style=for-the-badge&logo=Chai&logoColor=white)
