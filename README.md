@@ -76,14 +76,13 @@
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure)
-![GCP](https://img.shields.io/badge/GCP-232F3E?style=for-the-badge&logo=gcp)
+![GCP](https://img.shields.io/badge/Google%20Cloud-232F3E?style=for-the-badge&logo=google-cloud)
 
 
 #### Blockchain 
 
-![Ethereum](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Hyperledger](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud)
+![Ethereum](https://img.shields.io/badge/Ethereum-232F3E?style=for-the-badge&logo=ethereum)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-0089D6?style=for-the-badge&logo=hy7perledger)
 
 #### Versioning
 
