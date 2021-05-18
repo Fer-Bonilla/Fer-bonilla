@@ -192,7 +192,7 @@ Colombia Oil and Gas production prediction with regression models.
 ## Udacity
  - [NLP Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
  - [Blockchain developer Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
- - [Deep Learning Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
+ - [Deep Learning Nanodegree](https://github.com/Fer-Bonilla/Udacity-Deep-Learning-Projects)
  - [Machine Learning Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
  - [Artificial Intelligence Nanodegree](https://github.com/Fer-Bonilla/Udacity-Artificial-Intelligence-Projects)
  - [Data Engineering Nadodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects) 
