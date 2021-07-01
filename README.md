@@ -186,7 +186,12 @@ Colombia Oil and Gas production prediction with regression models.
 ## [Artificial Intelligence Master](https://github.com/Fer-Bonilla/Master-Inteligencia-Artificial-UNIR/blob/master/README.md)
 Courses:
 - Machine Learning
-- Natural Language Processing 
+- Congnitive neurociencies
+- Computational perception
+- Research in Artificial Intelligence
+- Reasoning and Automatic Planning
+- Artificial cognitive systems
+- Natural Language Processing
 
 ## Udacity
  - [NLP Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
