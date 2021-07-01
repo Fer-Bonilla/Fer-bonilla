@@ -183,11 +183,10 @@ Colombia Oil and Gas production prediction with regression models.
  - Google IT Automation with Python Professional Certificate
  - Machine Learning with TensorFlow on Google Cloud Platform Specialization
 
-## Artificial Intelligence Master
-- NLP Course and exercises
-- Deep Learning course and exercises
-- Neurobiology Learning course and exercises
-- Computer vision course and exercises
+## [Artificial Intelligence Master](https://github.com/Fer-Bonilla/Master-Inteligencia-Artificial-UNIR/blob/master/README.md)
+Courses:
+- Machine Learning
+- Natural Language Processing 
 
 ## Udacity
  - [NLP Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
