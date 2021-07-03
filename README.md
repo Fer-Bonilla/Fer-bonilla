@@ -134,12 +134,14 @@ Spanish dataset for jokes classification and scoring prediction. The project inc
 - BERT + GAN for conditional jokes generation. (Python)
 
 ### Colombian government public contracts analysis
-text analytics for more than 3 million documents for government biddings.
-- Text analysis to identity general topics in the contract’s description using BETO (Spanish BERT Model) 
-- Dash development for visualization and analysis (Dash + Python)
-- OCR for information extraction from public contracts (Tesseract)
-- Graph analysis for contractors (NetworkX + Python)
-
+Text analytics for more than 3 million documents for government biddings.
+ - Public databases used from datosbiertos.gov.co Colombian portal.
+ - Web scraping tools for extended information
+ - Text analysis to identify general topics in the contract’s description using BETO (Spanish BERT Model) 
+ - Dash development for visualization and analysis (Dash + Python)
+ - OCR for information extraction from public contracts (Tesseract)
+ - Graph analysis for contractors (NetworkX + Python)
+ 
 ### Oil and gas production projections with Azure ML 
 Colombia Oil and Gas production prediction with regression models.
 - EDA using Python notebooks.
