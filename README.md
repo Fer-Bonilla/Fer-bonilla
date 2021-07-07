@@ -133,7 +133,7 @@ Spanish dataset for jokes classification and scoring prediction. The project inc
 - BERT based model for text classification. (Python)
 - BERT + GAN for conditional jokes generation. (Python)
 
-### Colombian government public contracts analysis
+### [Colombian government public contracts analysis](https://github.com/Fer-Bonilla/secop-contratcs-dashboard)
 Text analytics for more than 3 million documents for government biddings.
  - Public databases used from datosbiertos.gov.co Colombian portal.
  - Web scraping tools for extended information
