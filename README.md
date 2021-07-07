@@ -202,7 +202,7 @@ Courses:
  - [Machine Learning Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
  - [Artificial Intelligence Nanodegree](https://github.com/Fer-Bonilla/Udacity-Artificial-Intelligence-Projects)
  - [Data Engineering Nadodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects) 
- - [Data Streaming Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
+ - [Data Streaming Nanodegree](https://github.com/Fer-Bonilla/Udacity-Data-Streaming-Projects)
  - Deep Reinforcement Learning Nanodegree
 
 ## EDX
