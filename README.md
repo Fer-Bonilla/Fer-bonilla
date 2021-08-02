@@ -214,9 +214,11 @@ Courses:
 ## IBM Qiskit development
  - IBM Qiskit Summer School
  - Qubit by Qubit Introduction to Quantum Computing with IBM Quantum
+ - IBM Quantum MAchine Learning Summer School
  
 ## Consensys Ethereum development
 - Solidity developer
+- Solidity Developer Bootcamp 2021
 
 ## Hyperledger development
 - Linux fundation Hyperledger Fabric development 
@@ -234,6 +236,7 @@ Courses:
 # :man_student: Studies and grades 
 
 - Quantum computing master
+- Blockchain and Digital Cryptocurrencies
 - Artificial Intelligence master
 - MBA - Innovation management
 - Agile project Management Diploma
