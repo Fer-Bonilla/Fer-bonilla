@@ -223,9 +223,13 @@ Courses:
 ## Hyperledger development
 - Linux fundation Hyperledger Fabric development 
 
-## SCRUM and SAFE
- - Safe course
- - Scrum exercises and course
+## AGILE, SCRUM and SAFE
+ - SAFE (Scaled Agile) content 
+ - Scrum content
+ - Nexus
+
+## DEVOPS
+ - DevOps Course content
  
 
 <p></p>
