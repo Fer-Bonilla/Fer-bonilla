@@ -214,7 +214,7 @@ Courses:
 ## IBM Qiskit development
  - IBM Qiskit Summer School
  - Qubit by Qubit Introduction to Quantum Computing with IBM Quantum
- - IBM Quantum MAchine Learning Summer School
+ - [IBM Quantum MAchine Learning Summer School](https://github.com/Fer-Bonilla/QuantumML-Summer-School)
  
 ## Consensys Ethereum development
 - Solidity developer
