@@ -197,13 +197,16 @@ Courses:
 
 ## Udacity
  - [NLP Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
- - [Blockchain developer Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
  - [Deep Learning Nanodegree](https://github.com/Fer-Bonilla/Udacity-Deep-Learning-Projects)
+ - Deep Reinforcement Learning Nanodegree
  - [Machine Learning Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
  - [Artificial Intelligence Nanodegree](https://github.com/Fer-Bonilla/Udacity-Artificial-Intelligence-Projects)
  - [Data Engineering Nadodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects) 
  - [Data Streaming Nanodegree](https://github.com/Fer-Bonilla/Udacity-Data-Streaming-Projects)
- - Deep Reinforcement Learning Nanodegree
+ - Data Architect Nanodegree
+ - Azure DevOps Nanodegree
+ - [Blockchain developer Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
+ 
 
 ## EDX
  - Artificial Intelligence (AI) Professional Certificate
