@@ -228,7 +228,9 @@ Courses:
 
 ## AGILE, SCRUM and SAFE
  - SAFE (Scaled Agile) content 
- - Scrum content
+ - Scrum 
+ - Kanbas
+ - PMI-ACP
  - Nexus
 
 ## DEVOPS
