@@ -219,12 +219,11 @@ Courses:
  - Qubit by Qubit Introduction to Quantum Computing with IBM Quantum
  - [IBM Quantum MAchine Learning Summer School](https://github.com/Fer-Bonilla/QuantumML-Summer-School)
  
-## Consensys Ethereum development
+## Blockchain Development
 - Solidity developer
 - Solidity Developer Bootcamp 2021
-
-## Hyperledger development
 - Linux fundation Hyperledger Fabric development 
+- Cardano Plutus Smart Contracts development
 
 ## AGILE, SCRUM and SAFE
  - SAFE (Scaled Agile) content 
