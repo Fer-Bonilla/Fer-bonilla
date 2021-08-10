@@ -220,11 +220,11 @@ Courses:
  - [IBM Quantum MAchine Learning Summer School](https://github.com/Fer-Bonilla/QuantumML-Summer-School)
  
 ## Blockchain Development
-- Solidity developer
-- Solidity Developer Bootcamp 2021
-- Linux fundation Hyperledger Fabric development 
-- Cardano Plutus Smart Contracts development
-- Polkadot Substrate Blockchain developer
+ - Solidity developer
+ - Solidity Developer Bootcamp 2021
+ - Linux fundation Hyperledger Fabric development 
+ - Cardano Plutus Smart Contracts development
+ - Polkadot Substrate Blockchain developer
 
 ## AGILE, SCRUM and SAFE
  - SAFE (Scaled Agile) content 
@@ -235,7 +235,7 @@ Courses:
  - LESS
 
 ## DEVOPS
- - DevOps Course content
+ - 
 
 <p></p>
 <p></p>
