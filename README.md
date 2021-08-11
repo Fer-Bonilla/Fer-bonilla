@@ -225,6 +225,7 @@ Courses:
  - Linux fundation Hyperledger Fabric development 
  - Cardano Plutus Smart Contracts development
  - Polkadot Substrate Blockchain developer
+ - Hyperledger Besu Essentials Certification
 
 ## AGILE, SCRUM and SAFE
  - SAFE (Scaled Agile) content 
