@@ -245,9 +245,9 @@ Courses:
  
 # :man_student: Studies and grades 
 
-- Quantum computing master
-- Blockchain and Digital Cryptocurrencies
-- Artificial Intelligence master
+- Quantum computing Master
+- Blockchain and Digital Cryptocurrencies Master
+- Artificial Intelligence Master
 - MBA - Innovation management
 - Agile project Management Diploma
 - Technology management PGP
