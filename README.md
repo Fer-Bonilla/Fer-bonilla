@@ -228,14 +228,16 @@ Courses:
  - Hyperledger Besu Essentials Certification
 
 ## AGILE, SCRUM and SAFE
- - SAFE (Scaled Agile) content 
  - Scrum 
- - Kanbas
+ - Kanban
+ - SAFE 
  - PMI-ACP
  - Nexus
  - LESS
+ - Design Thinking
 
 ## DEVOPS
+ - Arcitura DevOps certification
  - 
 
 <p></p>
