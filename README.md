@@ -207,6 +207,7 @@ Courses:
  - Azure DevOps Nanodegree
  - [Blockchain developer Nanodegree](https://github.com/Fer-Bonilla/udacity-blockchain-developer-projects)
  - AWS Machine Learning
+ - Devops Machine Learning
  
 ## EDX
  - Artificial Intelligence (AI) Professional Certificate
