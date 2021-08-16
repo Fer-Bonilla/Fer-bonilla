@@ -236,6 +236,7 @@ Courses:
  - Nexus
  - LESS
  - Design Thinking
+ - LEAN Sixsigma
 
 ## DEVOPS
  - Arcitura DevOps certification
