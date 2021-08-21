@@ -168,6 +168,7 @@ Colombia Oil and Gas production prediction with regression models.
 ##  Quantum computing
  - Quantum deep learning using Qsikit
  - Quantum criptography
+ - Quantum reinforcement Learning Implementation
  
 <p></p>
 <p></p>
