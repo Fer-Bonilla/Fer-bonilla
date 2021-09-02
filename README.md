@@ -213,13 +213,13 @@ Courses:
 ## EDX
  - Artificial Intelligence (AI) Professional Certificate
 
-## MIT-X
- - Quantum Computing fundamentals
-
-## IBM Qiskit development
+## Quantum computing course and labs
  - IBM Qiskit Summer School
+ - Quantum Computing fundamentals MIT-X
  - Qubit by Qubit Introduction to Quantum Computing with IBM Quantum
  - [IBM Quantum MAchine Learning Summer School](https://github.com/Fer-Bonilla/QuantumML-Summer-School)
+ - Quantum educator workshop - Google Quantum AI
+ - Quantum computing foundations - Microsoft 
  
 ## Blockchain Development
  - Solidity developer
