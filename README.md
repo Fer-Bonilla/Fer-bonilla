@@ -228,6 +228,7 @@ Courses:
  - Cardano Plutus Smart Contracts development
  - Polkadot Substrate Blockchain developer
  - Hyperledger Besu Essentials Certification
+ - Iota Developer
 
 ## AGILE, SCRUM and SAFE
  - Scrum 
