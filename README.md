@@ -242,7 +242,7 @@ Courses:
 
 ## DEVOPS
  - Arcitura DevOps certification
- - 
+ - DevOps Institute
  
 # :man_student: Studies and grades 
 
