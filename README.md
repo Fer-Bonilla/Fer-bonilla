@@ -246,7 +246,6 @@ Courses:
  
 # :man_student: Studies and grades 
 
-- Quantum computing Master
 - Blockchain and Digital Cryptocurrencies Master
 - Artificial Intelligence Master
 - MBA - Innovation management
