@@ -243,6 +243,7 @@ Courses:
 ## DEVOPS
  - Arcitura DevOps certification
  - DevOps Institute
+ - Microsoft Azure DevOps
  
 # :man_student: Studies and grades 
 
