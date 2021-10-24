@@ -244,6 +244,7 @@ Courses:
  - Arcitura DevOps certification
  - DevOps Institute
  - Microsoft Azure DevOps
+ - DASA DEVOPS Foundamentals
  
 # :man_student: Studies and grades 
 
