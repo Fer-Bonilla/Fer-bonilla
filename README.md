@@ -248,6 +248,7 @@ Courses:
  
 # :man_student: Studies and grades 
 
+- PhD (Candidate) Computer Science.
 - Blockchain and Digital Cryptocurrencies Master
 - Artificial Intelligence Master
 - MBA - Innovation management
