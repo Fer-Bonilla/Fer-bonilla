@@ -246,6 +246,12 @@ Courses:
  - Microsoft Azure DevOps
  - DASA DEVOPS Foundamentals
  
+## Microsof Azure Certifications
+ - DP-900 Data Foundamentals
+ - AI-900 Artificial Intelligence Foundamentals
+ - AZ-900 Azure Foundamentals
+ 
+ 
 # :man_student: Studies and grades 
 
 - PhD (Candidate) Computer Science.
