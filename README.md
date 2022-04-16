@@ -247,10 +247,10 @@ Courses:
  - DASA DEVOPS Foundamentals
  
 ## Microsof Azure Certifications
- - DP-900 Data Foundamentals
- - AI-900 Artificial Intelligence Foundamentals
- - AZ-900 Azure Foundamentals
- 
+ - DP-900 Microsoft Certified: Azure Data Fundamentals
+ - AI-900 Microsoft Certified: Azure AI Fundamentals
+ - AZ-900 Microsoft Certified: Azure Fundamentals
+ - DP-100 Microsoft Certified: Azure Data Scientist Associate
  
 # :man_student: Studies and grades 
 
