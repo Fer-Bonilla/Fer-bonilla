@@ -52,6 +52,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-1287B1?style=for-the-badge&logo=redis&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/-CosmosDB-1287B1?style=for-the-badge&logo=redis&logoColor=white)
 
 #### Data Engineering
 
