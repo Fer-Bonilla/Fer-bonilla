@@ -249,6 +249,7 @@ Courses:
  - AI-900 Microsoft Certified: Azure AI Fundamentals
  - AZ-900 Microsoft Certified: Azure Fundamentals
  - DP-100 Microsoft Certified: Azure Data Scientist Associate
+ - DP-203 Microsoft Certified: Azure Data Architect
  
 # :man_student: Studies and grades 
 
