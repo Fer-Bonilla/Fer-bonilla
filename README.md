@@ -96,9 +96,9 @@
 # About me!
 
 ## :technologist: I’m currently working on
-- NLP field applied to documents classification! Funny jokes classifications and generation experiments!
-- Doing progress with crypto-trading system using predictive models
-- Building some Dapps with Solidity for pet’s care fundraising
+- NLP field applied to documents classification! Funny jokes classifications and generation experiments, and some work in the legal and financial domain. Using GPT-3 and knowledge graphs to improve information retrieval.
+- Doing progress with crypto-trading system using predictive models.
+- Building some Dapps with Solidity for pet’s care fundraising.
 - Designing some innovative services in the Govtech area, doing government digital services easier and cheaper.
 
 ## :astronaut: I like to learn new things every day. I am interested in these areas:
